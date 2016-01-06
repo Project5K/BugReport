@@ -3,4 +3,4 @@ Have an idea? **Bug to report**? Write them up in the issues tab of this repo! h
 
 Have a great day, and thank you for your contribution!
 
-- The Project 5K
+The Project 5K Team :) 
